@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD in Pharmaceutical Nanotechnology · Visiting Researcher, <a href='https://www.iciq.org/'>ICIQ</a>, Tarragona
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Institute of Chemical Research of Catalonia (ICIQ)</p>
+    <p>Tarragona, Spain</p>
+    <p>youseffatahi@gmail.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +22,15 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a final-year PhD candidate in Pharmaceutical Nanotechnology at Tehran University of Medical Sciences (TUMS), currently a visiting researcher at the Institute of Chemical Research of Catalonia ([ICIQ](https://www.iciq.org/)) in Tarragona, Spain.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research sits at the interface of materials chemistry, microfabrication, and bioelectronics. I work on microneedle technologies for transdermal drug delivery and interstitial-fluid sampling, including hydrogel-forming and swellable microneedles built from MeHA, chitosan, and GelMA. A central thread of my work is continuous biosensing with wearable microneedle electrochemical aptamer biosensors for real-time monitoring of antibiotics and anticancer agents in dermal interstitial fluid, using surface engineering and calibration-free ratiometric algorithms to counter in vivo drift and biofouling.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Alongside sensing, I develop stimuli-responsive nanocarriers, localized hydrogel systems, and exosome-integrated microneedles for responsive drug delivery. The longer-term goal that ties these threads together is closed-loop theranostics: platforms that sense a biomarker or drug level and actuate on-demand release.
+
+You can find my full publication list here, and reach me by email for collaborations, data, or questions about any of the work.
