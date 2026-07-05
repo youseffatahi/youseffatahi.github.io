@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD in Pharmaceutical Nanotechnology · Visiting Researcher, <a href='https://www.iciq.org/'>ICIQ</a>, Spain
 
@@ -15,7 +15,7 @@ profile:
     <p>youseffatahi@gmail.com</p>
     <p>+34 665 85 57 09</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
