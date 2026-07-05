@@ -6,7 +6,8 @@ subtitle: PhD in Pharmaceutical Nanotechnology · Visiting Researcher, <a href='
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: <img width="800" height="1067" alt="prof_pic-800" src="https://github.com/user-attachments/assets/57a49d52-deec-4992-8e7d-1f248be28a53" />
+
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Institute of Chemical Research of Catalonia (ICIQ)</p>
