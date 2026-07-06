@@ -44,13 +44,13 @@ cv:
 
     Research Interests:
       - label: Microneedle technologies
-        summary: Hydrogel-forming and swellable microneedles (MeHA, chitosan, GelMA), 3D-printed microcavity structures.
+        details: Hydrogel-forming and swellable microneedles (MeHA, chitosan, GelMA), 3D-printed microcavity structures.
       - label: Continuous biosensing
-        summary: Wearable microneedle electrochemical aptamer biosensors, ratiometric and KDM analysis for in vivo drift correction.
+        details: Wearable microneedle electrochemical aptamer biosensors, ratiometric and KDM analysis for in vivo drift correction.
       - label: Responsive drug delivery
-        summary: Stimuli-responsive nanocarriers, localized hydrogels, exosome and EV microneedle integration.
+        details: Stimuli-responsive nanocarriers, localized hydrogels, exosome and EV microneedle integration.
       - label: Closed-loop theranostics
-        summary: AI-driven sense-and-act platforms that detect biomarkers or drug levels and actuate on-demand release.
+        details: AI-driven sense-and-act platforms that detect biomarkers or drug levels and actuate on-demand release.
 
     Profiles:
       - label: Google Scholar
