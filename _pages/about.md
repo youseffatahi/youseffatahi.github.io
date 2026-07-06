@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD in Pharmaceutical Nanotechnology · Visiting Researcher, <a href='https://www.iciq.org/'>ICIQ</a>, Spain
+subtitle: PhD in Pharmaceutical Nanotechnology · Visiting Researcher, <a href='https://www.iciq.org/'>ICIQ</a>, Spain<br>Working on microneedle platforms for drug delivery and biosensing.
 
 profile:
   align: right
@@ -34,4 +34,11 @@ Driven by the evolving landscape of personalized medicine, his recent research t
 
 By combining his deep background in drug delivery with cutting-edge biosensing technologies, Yousef aims to develop autonomous, AI-driven closed-loop theranostic systems capable of simultaneously diagnosing physiological conditions and adjusting therapeutic interventions in real time.
 
-You can find his full publication list here, and reach him by email for collaborations, data, or questions about the work.
+You can find his full publication list [here](/publications/), and reach him by email for collaborations, data, or questions about the work.
+
+<style>
+/* smaller profile photo */
+.profile { max-width: 190px; }
+/* capitalize the "selected publications" heading */
+.post h2 a[href$="/publications/"] { text-transform: capitalize; }
+</style>

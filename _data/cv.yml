@@ -54,17 +54,12 @@ cv:
 
     Profiles:
       - label: Google Scholar
-        summary: H-index 47, 7000+ citations
-        url: https://scholar.google.com/citations?user=j8GPABkAAAAJ&hl=en
+        details: '<a href="https://scholar.google.com/citations?user=j8GPABkAAAAJ&hl=en" target="_blank">scholar.google.com/citations?user=j8GPABkAAAAJ</a> (h-index 47, 7000+ citations)'
       - label: ORCID
-        summary: 0000-0003-0374-2141
-        url: https://orcid.org/0000-0003-0374-2141
+        details: '<a href="https://orcid.org/0000-0003-0374-2141" target="_blank">orcid.org/0000-0003-0374-2141</a>'
       - label: Scopus
-        summary: Author ID 56560134100
-        url: https://www.scopus.com/authid/detail.uri?authorId=56560134100
+        details: '<a href="https://www.scopus.com/authid/detail.uri?authorId=56560134100" target="_blank">Author ID 56560134100</a>'
       - label: ResearchGate
-        summary: Yousef-Fatahi
-        url: https://www.researchgate.net/profile/Yousef-Fatahi
+        details: '<a href="https://www.researchgate.net/profile/Yousef-Fatahi" target="_blank">researchgate.net/profile/Yousef-Fatahi</a>'
       - label: LinkedIn
-        summary: in/youseffatahi
-        url: https://www.linkedin.com/in/youseffatahi/
+        details: '<a href="https://www.linkedin.com/in/youseffatahi/" target="_blank">linkedin.com/in/youseffatahi</a>'
