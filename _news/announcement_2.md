@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New work on wearable microneedle electrochemical aptamer biosensors for continuous drug monitoring in interstitial fluid is underway.
+New work on wearable microneedle biosensors for continuous drug monitoring is underway.
